@@ -1,0 +1,10 @@
+.cor{color:red}
+*{font-family: Arial; margin: 0}
+.cabecalho{color: #ffffff; background-color: #53801E; padding: 5px;}
+.sec{padding: 5px}
+.rodape{padding: 15px; color: #ffffff; background-color: #53801E; text-align: center}
+.cor1{color:hotpink;font-size:40px;}
+nav{background-color:#d6e1ff;}
+td{border:3px solid gray;}
+.alinha{width:80%;margin:0 auto;}
+tr,th{background-color: #e0e0e0;border:3px solid gray;}
